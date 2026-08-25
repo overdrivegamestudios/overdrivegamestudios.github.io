@@ -134,14 +134,7 @@ section:first-of-type { border-top: none; }
     radial-gradient(ellipse 40% 60% at 10% 80%, rgba(255,149,0,.05) 0%, transparent 60%);
   pointer-events: none;
 }
-.hero-grid-bg {
-  position: absolute; inset: 0;
-  background-image:
-    linear-gradient(var(--border) 1px, transparent 1px),
-    linear-gradient(90deg, var(--border) 1px, transparent 1px);
-  background-size: 55px 55px;
-  opacity: .3;
-  pointer-events: none;
+
 }
 .hero-eyebrow {
   font-family: 'JetBrains Mono', monospace;
