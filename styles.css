@@ -123,6 +123,8 @@ section:first-of-type { border-top: none; }
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
+  text-align: center;
   padding: 8rem 3rem 5rem;
   position: relative;
   overflow: hidden;
