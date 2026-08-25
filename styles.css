@@ -169,7 +169,7 @@ section:first-of-type { border-top: none; }
 .project-row {
   background: var(--card);
   display: grid;
-  grid-template-columns: 1fr 1fr;
+
   min-height: 380px;
   text-decoration: none;
   color: inherit;
