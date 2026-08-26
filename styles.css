@@ -119,7 +119,7 @@ section:first-of-type { border-top: none; }
 
 /* ── HERO (home) ── */
 #hero {
-  min-height: 92vh;
+  min-height: 72vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
